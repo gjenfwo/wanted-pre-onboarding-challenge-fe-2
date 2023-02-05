@@ -1,23 +1,8 @@
-# JSDoc Boilerplate
+# 원티드 프리온보딩 백엔드 챌린지 2월 사전과제
 
-## Usage
+### 사전과제 진행 가이드
 
-### Install
-
-```bash
-npm install
-or
-yarn
-```
-
-### Build
-
-```bash
-npm run docs
-or
-yarn docs
-```
-
-#### Reference
-
-- [jsdoc.app](https://jsdoc.app)
+- 해당 repository를 fork한 후 각 문제에 대한 답이나 본인의 생각을 작성해주세요
+- 데이터베이스에 대한 기초 질문들로 준비했고, 각 질문에 대한 답을 챌린지를 통해 알아갈 예정입니다
+- 최대한 자세히 작성해주시면 좋습니다.
+- 답변이 완료되시면 PR을 올려주시면 됩니다
