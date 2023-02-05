@@ -1,0 +1,48 @@
+{
+  "name": "jsdoc-boilerplate",
+  "version": "1.0.0",
+  "description": "## Usage",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.0"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "escape-string-regexp": "^2.0.0",
+    "argparse": "^2.0.1",
+    "entities": "^2.1.0",
+    "catharsis": "^0.9.0",
+    "js2xmlparser": "^4.0.2",
+    "graceful-fs": "^4.2.10",
+    "klaw": "^3.0.0",
+    "markdown-it": "^12.3.2",
+    "linkify-it": "^3.0.3",
+    "markdown-it-anchor": "^8.6.6",
+    "mdurl": "^1.0.1",
+    "strip-json-comments": "^3.1.1",
+    "requizzle": "^0.2.4",
+    "uc.micro": "^1.0.6",
+    "mkdirp": "^1.0.4",
+    "xmlcreate": "^2.0.4",
+    "underscore": "^1.13.6",
+    "marked": "^4.2.12",
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjenfwo/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gjenfwo/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://github.com/gjenfwo/wanted-pre-onboarding-challenge-fe-2#readme"
+}
